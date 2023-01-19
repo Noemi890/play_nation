@@ -1,0 +1,582 @@
+{
+  "games": [
+    {
+      "name": "GTA V - Grand Theft Auto V",
+      "background_image": "https://cdn.wallpapersafari.com/87/83/v3PIbq.jpg",
+      "platforms": [
+        "PlayStation 5", 
+        "Xbox Series S/X", 
+        "PlayStation 4", 
+        "PC", 
+        "PlayStation 3", 
+        "Xbox 360", 
+        "Xbox One"
+      ],
+      "description": "Rockstar Games went bigger, since their previous installment of the series. You get the complicated and realistic world-building from Liberty City of GTA4 in the setting of lively and diverse Los Santos, from an old fan favorite GTA San Andreas. 561 different vehicles (including every transport you can operate) and the amount is rising with every update. Simultaneous storytelling from three unique perspectives: Follow Michael, ex-criminal living his life of leisure away from the past, Franklin, a kid that seeks the better future, and Trevor, the exact past Michael is trying to run away from. GTA Online will provide a lot of additional challenge even for the experienced players, coming fresh from the story mode. Now you will have other players around that can help you just as likely as ruin your mission. Every GTA mechanic up to date can be experienced by players through the unique customizable character, and community content paired with the leveling system tends to keep everyone busy and engaged.",
+      "genre": ["Action", "Adventure"],
+      "release_date": "Sept 17, 2013",
+      "website": "http://www.rockstargames.com/V/"
+    },
+    {
+      "name": "Forspoken",
+      "background_image": "https://images.hdqwalls.com/wallpapers/forspoken-2022-p2.jpg",
+      "platforms": ["Playstation 5", "PC"],
+      "description": "Project Athia is the culmination of Luminous Productions’ philosophy to create a completely new and fresh gaming experiences that fuses together the latest technologies with art. With the PlayStation 5, their vision truly comes to life, and with Project Athia you can look forward to being transported to a vast and detailed world filled with beauty and dismay.",
+      "genre": ["Action", "Adventure"],
+      "release_date": "Jan 24, 2023",
+      "website": "https://forspoken.square-enix-games.com/en-us/"
+    },
+    {
+      "name": "God of War - Ragnarök",
+      "background_image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png",
+      "platforms": ["Playstation 4", "Playstation 5"],
+      "description": "Kratos and Atreus must journey to each of the Nine Realms in search of answers as they prepare for the prophesied battle that will end the world. Together, Kratos and Atreus venture deep into the Nine Realms in search of answers as Asgardian forces prepare for war. Along the way they will explore stunning, mythical landscapes, gather allies from across the realms, and face fearsome enemies in the form of Norse gods and monsters. As the threat of Ragnarök grows ever closer, Kratos and Atreus find themselves choosing between the safety of their family and the safety of the realms.",
+      "genre": ["Action"],
+      "release_date": "Nov 9, 2022",
+      "website": "https://blog.playstation.com/2021/09/09/first-look-at-god-of-war-ragnarok/"
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "background_image": "https://images7.alphacoders.com/122/thumb-1920-1221680.jpg",
+      "platforms": [
+        "Playstation 5",
+        "Xbox Series S/X",
+        "PlayStation 4", 
+        "PC", 
+        "Nintendo Switch", 
+        "Xbox One"
+      ],
+      "description": "Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. Now you can take control of the action and be at the center of your own adventure in the wizarding world. Embark on a journey through familiar and new locations as you explore and discover fantastic beasts, customize your character and craft potions, master spell casting, upgrade talents, and become the wizard you want to be. Experience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart. You have received a late acceptance to the Hogwarts School of Witchcraft and Wizardry and soon discover that you are no ordinary student: you possess an unusual ability to perceive and master Ancient Magic. Only you can decide if you will protect this secret for the good of all, or yield to the temptation of more sinister magic. Discover the feeling of living at Hogwarts as you make allies, battle Dark wizards, and ultimately decide the fate of the wizarding world. Your legacy is what you make of it.",
+      "genre": ["Action", "RPG"],
+      "release_date": "Feb 10, 2023",
+      "website": "https://www.hogwartslegacy.com/"
+    },
+    {
+      "name": "Dragon Age: Inquisition",
+      "background_image": "https://wallpapercave.com/wp/wp2179399.jpg",
+      "platforms": [
+        "Xbox 360",
+        "PlayStation 3",
+        "PlayStation 4",
+        "Xbox One",
+        "PC"
+      ],
+      "description": "You have to revive and lead the Inquisition, which aims to eradicate evil in the land of Thedas. War, intrigue, political strife deprived previously influential groups of Thedas the opportunity to act with the same efficiency. Players will have to respond to this threat, as well as explore a vast world, meet old and new characters and gather strength for the growing Inquisition. You play as an inquisitor, and you can choose for your character: gender, race, voice, name and customise his look. Depending on the selected race, the player will receive specific bonuses and will be offered a choice of three classes: rogue, mage and warrior. As in the previous parts of the series, the player controls not only his character but also a detachment of companions collected by him. In total, the game features nine companions. In battle, the player, as before, can activate a pause, during which the game stops, and at this time you can give orders to teammates. Everything is built on the dialogues between the characters, and they can directly change the ending of the game.",
+      "genre": [
+        "Action",
+        "RPG",
+        "Strategy"
+      ],
+      "release_date": "Nov 18, 2014",
+      "website": "http://www.dragonage.com/"
+    },
+    {
+      "name": "Rocket League",
+      "background_image": "https://cdn.entertainment-focus.com/wp-content/uploads/2020/09/15235232/free_to_play_1.jpg",
+      "platforms": [
+        "Nintendo Switch",
+        "Linux", 
+        "macOS",
+        "Xbox One",
+        "PC",
+        "PlayStation 4"
+      ],
+      "description": "Highly competitive soccer game with rocket-cars is the most comprehensive way to describe this game. Technically a sequel to Psyonix’ previous game - Supersonic Acrobatic Rocket-Powered Battle-Cars; Rocket League successfully became a standalone sensation, that can be enjoyed by anyone. Easy to learn, hard to master game mechanics are perfect for the tight controls. Players are invited to maneuver the different fields within several game modes, from arcade to ranked game either 1v1, or in 2v2 and 3v3 teams. Using boosters will not only speed up the car but will allow the car to propel itself into the air. Rocket League provides several levels of customization, where not only the color of your car can be adjusted, but the colors and form of the booster flame, different hats, and little flags. Or players can pick a completely different car. Collaboration with different franchises brought not only original transport but some famous cars, including Batmobile or Delorian from Back to the Future.",
+      "genre": [
+        "Sports",
+        "Racing",
+        "Indie"
+      ],
+      "release_date": "Jul 7, 2015",
+      "website": "http://www.rocketleaguegame.com"
+    },
+    {
+      "name": "Elden Ring",
+      "background_image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/elden-ring-cover.jpg",
+      "platforms": [
+        "PC",
+        "Xbox One",
+        "PlayStation 4",
+        "Xbox Series S/X",
+        "PlayStation 5"
+      ],
+      "description": "The Golden Order has been broken. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between. In the Lands Between ruled by Queen Marika the Eternal, the Elden Ring, the source of the Erdtree, has been shattered. Marika's offspring, demigods all, claimed the shards of the Elden Ring known as the Great Runes, and the mad taint of their newfound strength triggered a war: The Shattering. A war that meant abandonment by the Greater Will. And now the guidance of grace will be brought to the Tarnished who were spurned by the grace of gold and exiled from the Lands Between. Ye dead who yet live, your grace long lost, follow the path to the Lands Between beyond the foggy sea to stand before the Elden Ring.",
+      "genre": ["Action", "RPG"],
+      "release_date": "Feb 25, 2022",
+      "website": "https://en.bandainamcoent.eu/elden-ring/elden-ring"
+    },
+    {
+      "name": "Uncharted: Legacy of Thieves Collection",
+      "background_image": "https://cdnb.artstation.com/p/assets/images/images/044/783/435/large/jake-kontou-final-square-1.jpg?1641152401",
+      "platforms": [
+        "PC",
+        "PlayStation 5"
+      ],
+      "description": "Are You Ready To Seek Your Fortune? Seek your fortune and leave your mark on the map in the UNCHARTED: Legacy of Thieves Collection. Uncover the thrilling cinematic storytelling and the largest blockbuster action set pieces in the UNCHARTED franchise, packed with all the wit, cunning, and over the top moments of the beloved thieves - Nathan Drake and Chloe Frazer. In an experience delivered by award winning developer Naughty Dog can, the UNCHARTED: Legacy of Thieves Collection includes the two critically-acclaimed, globe-trotting single player adventures from UNCHARTED™ 4: A Thief's End and UNCHARTED™: The Lost Legacy. Each story is filled with laughs, drama, high octane combat, and a sense of wonder - remastered to be even more immersive.",
+      "genre": ["Action", "Adventure"],
+      "release_date": "Jan 28, 2022",
+      "website": "https://www.playstation.com/en-us/games/uncharted-legacy-of-thieves-collection/"
+    },
+    {
+      "name": "Stray",
+      "background_image": "https://earlygame.com/uploads/images/_body/Stray1A.jpg",
+      "platforms": [
+        "PlayStation 5",
+        "PC",
+        "PlayStation 4"
+      ],
+      "description": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten city. Stray is a third-person cat adventure game set amidst the detailed, neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly. Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by curious droids and dangerous creatures. See the world through the eyes of a cat and interact with the environment in playful ways. Be stealthy, nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this mysterious world. Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo must find a way out. Stray is developed by BlueTwelve Studio, a small team from the south of France mostly made up of cats and a handful of humans.",
+      "genre": [
+        "Action", 
+        "Adventure",
+        "Simulation",
+        "Indie",
+        "Puzzle",
+        "Platformer"
+      ],
+      "release_date": "Jul 19, 2022",
+      "website": "https://stray.game/"
+    },
+    {
+      "name": "MultiVersus",
+      "background_image": "https://www.videogameschronicle.com/files/2022/05/multiversus-featured-pic-scaled.jpg",
+      "platforms": [
+        "PC",
+        "Xbox Series S/X",
+        "Xbox One",
+        "PlayStation 4",
+        "PlayStation 5"
+      ],
+      "description": "MultiVersus is a platform fighter that lets you team up with or against your friends using some of the world’s most iconic characters including Batman, Shaggy, Superman, Bugs Bunny & more. Use unique co-op abilities, find your favorite fighter combos and save the Multiverse!",
+      "genre": ["Action", "Fighting"],
+      "release_date": "Jul 26, 2022",
+      "website": "https://multiversus.com/"
+    },
+    {
+      "name": "Dying Light 2 Stay Human",
+      "background_image": "https://images6.alphacoders.com/114/1148838.jpg",
+      "platforms": [
+        "PC",
+        "Xbox One",
+        "Xbox Series S/X",
+        "PlayStation 4",
+        "Nintendo Switch",
+        "PlayStation 5"
+      ],
+      "description": "Dying Light 2 brings to life a unique post-apocalyptic vision of the Modern Dark Ages - a brutal, bleak and unforgiving reality where you are as likely to perish at the hand of a human as you are by the infected. In this exhausted world, your quick thinking, exceptional parkour abilities and brutal combat skills are the only things that let you dive into darkness and emerge alive. Make morally grey decisions and witness how they impact the world at multiple levels, shape the transformation of the City, and ultimately decide its fate.",
+      "genre": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "release_date": "Feb 4, 2022",
+      "website": "https://dyinglightgame.com/"
+    },
+    {
+      "name": "Horizon Forbidden West",
+      "background_image": "https://gameranx.com/wp-content/uploads/2022/01/horizon-forbidden-west-1-scaled.jpg",
+      "platforms": ["PlayStation 4", "PlayStation 5"],
+      "description": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon. The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why. It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past - all the while trying to stay one step ahead of a seemingly undefeatable new enemy.",
+      "genre": "Action, Adventure, RPG",
+      "release_date": "Feb 18, 2022",
+      "website": "https://www.guerrilla-games.com/games"
+    },
+    {
+      "name": "Grounded",
+      "background_image": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/full/s3/2020/04/21/76c08549/grounded_header.jpg",
+      "platforms": [
+        "Xbox Series S/X",
+        "PC",
+        "Xbox One"
+      ],
+      "description": "The world is a vast, beautiful, and dangerous place - especially when you have been shrunken to the size of an ant. Explore, build, and survive together in this first person, multiplayer, survival-adventure. Can you thrive alongside the hordes of giant insects, fighting to survive the perils of the backyard?",
+      "genre": "Adventure, Indie",
+      "release_date": "Sep 27, 2022",
+      "website": "https://www.xbox.com/en-us/games/grounded?source=lp"
+    },
+    {
+      "name": "A Plague Tale: Requiem",
+      "background_image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_APlagueTaleRequiemCloudVersion.jpg",
+      "platforms": [
+        "Xbox Series S/X",
+        "PlayStation 4",
+        "Nintendo Switch",
+        "PC",
+        "PlayStation 5",
+        "Xbox One"
+      ],
+      "description": "Far across the sea, an island calls… Embark on a heartrending journey into a brutal, breathtaking world twisted by supernatural forces. After escaping their devastated homeland, Amicia and Hugo travel far south, to new regions and vibrant cities. There, they attempt to start a new life and control Hugo's curse. But, when Hugo's powers reawaken, death and destruction return in a flood of devouring rats. Forced to flee once more, the siblings place their hopes in a prophesized island that may hold the key to saving Hugo. Discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell, overcoming foes and challenges with a variety of weapons, tools and unearthly powers.",
+      "genre": "Action, Adventure",
+      "release_date": "Oct 17, 2022",
+      "website": "https://www.focus-home.com/en-us/games/a-plague-tale-requiem"
+    },
+    {
+      "name": "Ghostwire: Tokyo",
+      "background_image": "https://images6.alphacoders.com/121/1216717.jpg",
+      "platforms": ["PlayStation 5", "PC"],
+      "description": "After strange disappearances hit Tokyo's population, it's up to you to uncover the source and purge the city of a strange, new evil. Armed with your own mysterious spectral abilities, you will face down the occult, unravel conspiracy theories and experience urban legends like never before. Don't fear the unknown. Attack it.",
+      "genre": "Action",
+      "release_date": "Mar 24, 2022",
+      "website": "https://bethesda.net/en/game/ghostwire-tokyo"
+    },
+    {
+      "name": "The Quarry",
+      "background_image": "https://img.opencritic.com/game/13226/8xeqJSlo.jpg",
+      "platforms": [
+        "PlayStation 5",
+        "Xbox Series S/X",
+        "PlayStation 4",
+        "PC",
+        "Xbox One"
+      ],
+      "description": "Play as each of the nine camp counselors in a thrilling cinematic tale, where every decision shapes your unique story from a tangled web of possibilities. Any character can be the star of the show—or die before daylight comes. How will your story unfold? Will you dare to check what's behind that trap door? Will you investigate the screams echoing from within the forest? Will you save your friends or desperately run for your life? Every choice, big or small, shapes your story and determines who lives to tell the tale. Cutting edge facial capture and filmic lighting techniques, combined with incredible performances from an iconic ensemble cast of Hollywood talent, bring the horrors of Hackett's Quarry to life in a pulse-pounding, cinematic thrill ride. Place your faith in up to 7 friends in online play, where invited players watch along and vote on key decisions, creating a story shaped by the whole group! Or, play together in a party horror couch co-op experience where each player picks a counselor and controls their actions. Adjustable difficulty for all gameplay elements let players of any skill level enjoy the horror. And if you prefer to watch rather than play, Movie Mode lets you enjoy The Quarry as a binge-worthy cinematic thriller. Select how you want the story to unfold, kick back, and munch on some popcorn in between all the screams!",
+      "genre": "Action, Adventure",
+      "release_date": "Jun 9, 2022",
+      "website": "https://quarrygame.2k.com/"
+    },
+    {
+      "name": "Sifu",
+      "background_image": "https://s01.riotpixels.net/data/2e/67/2e677da5-e955-4a31-ae1c-00e6fdd1b090.jpg/cover.sifu.1024x1024.2022-02-08.18.jpg",
+      "platforms": [
+        "Nintendo Switch" ,
+        "PC",
+        "Xbox Series S/X",
+        "Xbox One",
+        "PlayStation 5",
+        "PlayStation 4"
+      ],
+      "description": "Is one life enough to have Kung Fu? In Sifu, you play a young Kung-Fu student on a path of revenge. Running after shadows from his past, one against all, he will have to draw deep into his unique mastery of Pak-Mei Kung-Fu to prevail. On the path of vengeance: The hunt for your enemies will take you through the hidden corners of the city, from the gang-ridden suburbs to the cold hallways of the corporate towers. You have got one day, and countless enemies on your way. Time will be the price to pay. Adaptation is the way: Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows and ledges... The odds are stacked against you, and you will be offered no mercy. Training never ends: Kung Fu is a path for the body and the mind. Learn from your errors, unlock unique skills, and find the strength within yourself to master the devastating techniques of Pak-Mei Kung-Fu.",
+      "genre": "Action , Fighting",
+      "release_date": "Feb 8, 2022",
+      "website": "https://www.sifugame.com/"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare II",
+      "background_image": "https://cdn.mos.cms.futurecdn.net/6x3THR4RQrjjfiX2jFEzjR.jpg",
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "Xbox Series S/X",
+        "Xbox One",
+        "PlayStation 4"
+      ],
+      "description": "Welcome to the new era of Call of Duty®. Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141. From small-scale, high-stakes infiltration tactical ops to highly classified missions, players will deploy alongside friends in a truly immersive experience.",
+      "genre": "Action, Shooter",
+      "release_date": "Oct 27, 2022",
+      "website": "https://www.callofduty.com/modernwarfare2"
+    },
+    {
+      "name": "Need for Speed Unbound",
+      "background_image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0913/rxBc04d5T8hsHzpekdooSPn5.png",
+      "platforms": [
+        "PlayStation 5",
+        "PC",
+        "Xbox Series S/X"
+      ],
+      "description": "The world is your canvas in Need for Speed™ Unbound. Prove you have what it takes to win The Grand, Lakeshore's ultimate street racing challenge. Across 4 intense weeks of racing, earn enough cash to enter weekly qualifiers, beat the competition, and make your mark on the street racing scene while outdriving and outsmarting the cops. Pack your garage with precision-tuned, custom rides and light up the streets with your unique style, exclusive fits, and a vibrant global soundtrack led by A$AP Rocky and AWGE that bumps in every corner of the world. Express yourself to the fullest with the freshest new art styles and signature tags that represent what you're all about. With separate single- and multiplayer campaigns, this latest edition in the Need for Speed franchise from Criterion Games™ delivers hours of electric, adrenaline-pumping action.",
+      "genre": "Action, Racing",
+      "release_date": "Nov 29, 2022",
+      "website": "https://www.ea.com/games/need-for-speed/need-for-speed-unbound"
+    },
+    {
+      "name": "Pokémon Legends: Arceus",
+      "background_image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_PokemonLegendsArceus_EN_image1600w.jpg",
+      "platforms": ["Nintendo Switch"],
+      "description": "First came Sinnoh remakes. Then came Sinnoh pre-makes. Introducing #PokemonLegendsArceus​, a new challenge and a new frontier for the Pokémon world. The Pokémon Legends: Arceus game honours past Pokémon games’ core gameplay while infusing new action and RPG elements. You’ll need to catch, survey, and research wild Pokémon in a long-gone era of the Sinnoh region to create and complete the region’s first Pokédex.",
+      "genre": "Action, Adventure, RPG",
+      "release_date": "Jan 28, 2022",
+      "website": "https://legends.pokemon.com/"
+    },
+    {
+      "name": "Vampire: The Masquerade - Bloodlines 2",
+      "background_image": "https://gamingbolt.com/wp-content/uploads/2019/03/vampire-the-masquerade-bloodlines-2.jpg",
+      "platforms": [
+        "PlayStation 5",
+        "Xbox Series S/X",
+        "PC",
+        "Xbox One",
+        "PlayStation 4"
+      ],
+      "description": "Sired in an act of vampire insurrection, your existence ignites the war for Seattle's blood trade. Enter uneasy alliances with the creatures who control the city and uncover the sprawling conspiracy which plunged Seattle into a bloody civil war between powerful vampire factions. Become the Ultimate Vampire. Immerse yourself in the World of Darkness and live out your vampire fantasy in a city filled with intriguing characters that react to your choices. You and your unique disciplines are a weapon in our forward-driving, fast-moving, melee-focussed combat system. Your power will grow as you advance, but remember to uphold the Masquerade and guard your humanity... or face the consequences. Descend into Seattle's Dark Heart and Survive the Vampire Elite. Seattle has always been run by vampires. Hunt your prey across Seattle locations faithfully reimagined in the World of Darkness. Meet the old blood founders present since the city's birth and the new blood steering the tech money redefining the city. Everyone has hidden agendas - so choose your allies wisely. Enter into Uneasy Alliances. Choose a side among competing factions, each with their own unique traits and stories, in the war for Seattle's blood trade. The world will judge you by the company you keep, but remember no one's hands stay clean forever. Experience the Story. Written by the creative mind behind the original Bloodlines, Vampire: The Masquerade® - Bloodlines™ 2 brings the ambitions of the first game to life and sees the return of a few fan favorite characters.",
+      "genre": "Action, RPG",
+      "release_date": "Dec 31, 2023",
+      "website": "https://www.bloodlines2.com"
+    },
+    {
+      "name": "Prince of Persia: The Sands of Time Remake",
+      "background_image": "https://cdn1.epicgames.com/9e30bd4e12954cee898f4c059625d374/offer/GameName_Store_Landscape_2560x1440_EN-2560x1440-9c8e19edbd7c55e4afeb6081e4f8dd1a.jpg",
+      "platforms": [
+        "PlayStation 4",
+        "PlayStation 5",
+        "PC",
+        "Xbox One",
+        "Xbox Series S/X"
+      ],
+      "description": "The Prince has returned! Experience the classic tale that redefined action-adventure gaming in this full-scale remake for a new generation. You are the Prince of Persia. Embark on a journey to save your kingdom from the treacherous Vizier. Master the Sands of Time and use your dagger to reverse, accelerate, freeze, and slow time itself. Fight cursed enemies and solve puzzles along the way. Experience incredible graphical enhancements and re-designed gameplay mechanics. Unlock Prince of Persia, the original game from 1989, along your journey.",
+      "genre": "Action, Adventure, Puzzle, Platformer",
+      "release_date": "TBA",
+      "website": "https://www.ubisoft.com/en-gb/game/prince-of-persia/sands-of-time-remake"
+    },
+    {
+      "name": "The Last of Us Part I",
+      "background_image": "https://assets-prd.ignimgs.com/2022/06/09/the-last-of-us-part-1-button-1654791855870.jpg",
+      "platforms": ["PlayStation 5", "PC"],
+      "description": "Revisit the game that set a new bar for single-player narrative storytelling with The Last of Us™ and explore a ravaged and hardened world, where every action has a brutal consequence for Joel and Ellie. Experience the emotional storytelling and unforgettable characters in The Last of Us™, winner of over 200 Game of the Year awards. In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey.",
+
+      "genre": "Action, Shooter",
+      "release_date": "Mar 3, 2023",
+      "website": "https://www.naughtydog.com/blog/the_last_of_us_part_i_arrives_on_pc_march_3_2023"
+    },
+    {"name": "Marvel's Spider-Man 2",
+    "background_image": "https://www.spieltimes.com/wp-content/uploads/2021/09/Marvels-SpiderMan-2-Cover.jpg",
+    "platforms": ["PlayStation 5"],
+    "description": "Marvel's Spider-Man 2 is the next game in PlayStation's critically acclaimed Marvel's Spider-Man franchise. Developed by Insomniac Games in collaboration with Marvel Games and PlayStation for the PS5 console.",
+    "genre": "Action",
+    "release_date": "TBA",
+    "website": "https://blog.playstation.com/2021/09/09/marvels-spider-man-2-and-marvels-wolverine-revealed/"
+    },
+    {
+      "name": "The Lord of the Rings: Gollum",
+      "background_image": "https://assets.reedpopcdn.com/Gollum_1920x1080.png/BROK/thumbnail/1600x900/quality/100/Gollum_1920x1080.png",
+      "platforms": [
+        "Xbox Series S/X",
+        "PlayStation 4",
+        "PC",
+        "Xbox One",
+        "PlayStation 5"
+      ],
+      "description": "The Lord of the Rings™: Gollum™ is a story-driven action adventure. Take on a perilous journey as Gollum, chasing the only thing that is precious to him. Gollum is skillful and cunning, but also torn by his split personality. One mind, two egos - you decide!",
+      "genre": "Action, Adventure",
+      "release_date": "Dec 31, 2023",
+      "website": "https://www.playstation.com/en-gb/games/the-lord-of-the-rings-gollum/"
+    },
+    {
+      "name": "Final Fantasy XVI",
+      "background_image": "https://www.gematsu.com/wp-content/uploads/2022/12/FF16-Release-Date-Set_12-08-22.jpg",
+      "platforms": [
+        "PlayStation 5",
+        "PC"
+      ],
+      "description": "The 16th standalone entry in the legendary Final Fantasy series marks a darker turn for the RPG franchise, with a complex tale of revenge, power struggles and unavoidable tragedy. Final Fantasy XVI reimagines the series' iconic summons as Eikons. These deadly creatures are housed within Dominants, men and women who inherit their immense power at birth - whether they like it or not. Eikons are the most powerful beings in Valisthea, a land where six powerful realms have emerged thanks to the power of the Mothercrystals. The aether provided by these towering mountains of crystal powers the magicks that have allowed these nations to thrive for many years — but now a mysterious Blight threatens to disrupt their uneasy alliance. Play as Clive Rosfield, First Shield of Rosaria and guardian of his younger brother Joshua, the Dominant of the Eikon Phoenix, in this epic action RPG from a team of Final Fantasy veterans.",
+      "genre": "Action, RPG",
+      "release_date": "Jun 22, 2023",
+      "website": "https://na.finalfantasyxvi.com/"
+    },
+    {
+      "name": "One Piece Odyssey",
+      "background_image": "https://images3.alphacoders.com/127/1274186.jpg",
+      "platforms": [
+        "PC",
+        "PlayStation 5",
+        "PlayStation 4",
+        "Xbox Series S/X"
+      ],
+      "description": "The famed pirate, Monkey.D.Luffy, better known as Straw Hat Luffy, and his crew the Straw Hat Pirates, are sailing across the New World in search of the next island and the next adventure that awaits them. But during their voyage they are caught in a storm and shipwrecked. They find themselves washed up on a lush tropical island surrounded by constantly raging storms... Separated from his crew, Luffy sets off on a grand, new adventure to find his friends and escape the island! Dangerous new enemies, terrifying forces of nature, and more await them! Play as various members of the Straw Hat Pirates in a classic RPG set in the world of the popular ONE PIECE anime!",
+      "genre": "Action, RPG, Casual",
+      "release_date": "Jan 13, 2023",
+      "website": "https://en.bandainamcoent.eu/one-piece/one-piece-odyssey"
+    },
+    {
+      "name": "Scars Above",
+      "background_image": "https://media.nichegamer.com/wp-content/uploads/2022/12/12172907/scars-above-cover-art-compressed.jpg",
+      "platforms": [
+        "PC",
+        "PlayStation 4",
+        "Xbox One",
+        "Xbox Series S/X",
+        "PlayStation 5"
+      ],
+      "description": "Scars Above is a challenging sci-fi third-person action adventure shooter combining the rewarding feel of overcoming difficulty with a compelling and intricate story, set in a mysterious alien world to explore. Some things were not meant to be discovered… A colossal and enigmatic alien structure appears in Earth's orbit and stuns the entire world; humanity names it 'The Metahedron'. The Sentient Contact Assessment and Response team (SCAR) - consisting of scientists and engineers - is sent to investigate. Things don't go as planned and the Metahedron hauls the team across space onto a mysterious extrasolar planet. Playing the role of Dr Kate Ward - a SCAR member - who wakes up dazed, alone in a strange, hostile environment. Determined to survive, you set out to find your crew and unravel the mystery behind what's happened. Kate is an astronaut and a scientist - not a soldier - but she's resourceful and determined to do anything to survive.Use a combination of ranged weapons, devices, consumables and melee attacks, you need to manage stamina as you run, dodge, exploit weak points and discover effective tactics to defeat your foes. Combine different elemental attacks to beat the odds and break through otherwise impassable obstacles. Craft different items and gadgets to aid you against the countless threats in this exoplanet.",
+      "genre": "Action",
+      "release_date": "Feb 28, 2023",
+      "website": "https://scarsabove.primematter.gg/en-it"
+    },
+    {
+      "name": "Street Fighter 6",
+      "background_image": "https://blog.playstation.com/tachyon/2022/12/2a27ecfb903edf6ef53eb75216baa74c2dae190f.jpg?resize=1088%2C612&crop_strategy=smart",
+      "platforms": [
+        "PlayStation 5",
+        "Xbox Series S/X",
+        "PlayStation 4",
+        "PC"
+      ],
+      "description": "A new era for fighting games begins in 2023! The evolution of fighting games starts with our traditional Fighting Ground, and then we're turning the genre on its head with World Tour and Battle Hub for a total of three modes where anyone can play to their liking. No one starts off as a champion. You get there step by step, punch by punch. Take up the challenge and bring your game to the next level.",
+      "genre": "Fighting",
+      "release_date": "Jun 2, 2023",
+      "website": "https://www.streetfighter.com/6/"
+    },
+    {
+      "name": "Children of Silentown",
+      "background_image": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2022/11/Children-Of-Silentown-Main-Art.jpg",
+      "platforms": [
+        "PC",
+        "Nintendo Switch"
+      ],
+      "description": "During the day the forest is calm and peaceful. It is during the night that you hear the roars...of monsters. Accompany Lucy and her friends in this grim, beautifully hand-drawn adventure game by the creators of Little Briar Rose, in collaboration with studio Luna2. Lucy is afraid of the forest, just like any other child: every night, the echoing roars rob her of her sleep. Not even her dreams are a safe place where she could play. People disappearing is nothing uncommon in the village, but this time, Lucy is old enough to investigate on her own. Or so she thinks. Explore Silentown in search of hints, but beware: do not enter the forest. A unique, unsettling 2D art style fitting for a mysterious, dark tale. Music plays a crucial role, and learning how to sing will help Lucy in times of need. Combine items to obtain widely unexpected results! Many quirky characters (and animals!) to interact with. Be nice to them before they disappear. Play minigames with the other children of the village! A very mean cat, programmed to mess with Lucy at any given chance. Curious, original puzzles: use a leash and a pair of shears to break in your mother's best friend's house, all in order to steal… a flower?!",
+      "genre": "Adventure, Casual, Indie",
+      "release_date": "Jan 11, 2023",
+      "website": "https://childrenofsilentown.com/"
+    },
+    {
+      "name": "SpongeBob SquarePants: The Cosmic Shake",
+      "background_image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_SpongeBobSquarePantsTheCosmicShake_image1600w.jpg",
+      "platforms": [
+        "Nintendo Switch",
+        "Xbox One",
+        "PlayStation 4",
+        "PC"
+      ],
+      "description": "Wish-granting Mermaid's Tears in the hands of SpongeBob and Patrick… What could possibly go wrong? Sure, the very fabric holding the very universe very together could come very undone, opening up portals into Wishworlds full of knights, cowboys, pirates, and prehistoric snails. But that's nothing everyone's favorite sponge can't handle - with the right cosmic costume! Everybody do the Cosmic Shake!",
+      "genre": "Action",
+      "release_date": "Jan 31, 2023",
+      "website": "https://cosmicshake.thqnordic.com/"
+    },
+    {
+      "name": "Destiny 2: Lightfall",
+      "background_image": "https://wallpapercave.com/wp/wp11488679.jpg",
+      "platforms": [
+        "PlayStation 4",
+        "Xbox One",
+        "PlayStation 5",
+        "PC",
+        "Xbox Series S/X"
+      ],
+      "description": "In a Neptunian city under siege, find strength in your fellow Guardians as the end to all things approaches—the Witness is here. Arm yourself with new rewards and unlock new Dark powers to triumph in Lightfall's unforgettable Legendary mode. Harness Darkness and pluck at the threads of reality with this new subclass. Flow through the city with newfound speed as you grapple from building to building. Every class can tap into this new element, but it's up to you to create the perfect build. Travel to Neptune and discover a neon metropolis unlike any you've explored in Destiny 2. Meet the Cloud Striders, join the fight against the Shadow Legion, and prevent devastation in the technologically advanced secret city of Neomuna.",
+      "genre": ["Massively Multiplayer"],
+      "release_date": "Feb 28, 2023",
+      "website": "https://www.bungie.net/7/en/Destiny/Lightfall"
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "background_image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_TheWitcher3WildHunt_enGB_image1280w.jpg",
+      "platforms": [
+        "Xbox Series S/X",
+        "PlayStation 4",
+        "Nintendo Switch",
+        "PC",
+        "Xbox One",
+        "PlayStation 5"
+      ],
+      "description": "The third game in a series, it holds nothing back from the player. Open world adventures of the renowned monster slayer Geralt of Rivia are now even on a larger scale. Following the source material more accurately, this time Geralt is trying to find the child of the prophecy, Ciri while making a quick coin from various contracts on the side. Great attention to the world building above all creates an immersive story, where your decisions will shape the world around you. CD Project Red are infamous for the amount of work they put into their games, and it shows, because aside from classic third-person action RPG base game they provided 2 massive DLCs with unique questlines and 16 smaller DLCs, containing extra quests and items. Players praise the game for its atmosphere and a wide open world that finds the balance between fantasy elements and realistic and believable mechanics, and the game deserved numerous awards for every aspect of the game, from music to direction.",
+      "genre": ["Action", "Adventure", "RPG"],
+      "release_date": "May 18, 2015",
+      "website": "https://thewitcher.com/en/witcher3"
+    },
+    {
+      "name": "It Takes Two",
+      "background_image": "https://images4.alphacoders.com/114/1148443.jpg",
+      "platforms": [
+        "PlayStation 5",
+        "Xbox Series S/X",
+        "PC",
+        "Nintendo Switch",
+        "Xbox One",
+        "PlayStation 4"
+      ],
+      "description": "Bring your favorite co-op partner and together step into the shoes of May and Cody. As the couple is going through a divorce, through unknown means their minds are transported into two dolls which their daughter, Rose, made to represent them. Now they must reluctantly find a way to get back into their bodies, a quest which takes them through the most wild, unexpected and fantastical journey imaginable. It Takes Two further builds on Hazelight's proven track record of making rich and engaging co-op experiences. While developing It Takes Two it has been the team's number one priority to truly merge story and gameplay. Allowing both to influence each other guarantees a game that is as engaging to play as it is compelling to experience.",
+      "genre": ["Action", "Adventure", "Platformer"],
+      "release_date": "Mar 26, 2021",
+      "website": "https://hazelight.se/games/it-takes-two/"
+    },
+    {
+      "name": "Mass Effect 2",
+      "background_image": "https://m.media-amazon.com/images/M/MV5BYzAyMTdmMTctNGIxYS00ZDAxLWE2NzktMWEyOGIyN2MwZTU2XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg",
+      "platforms": [
+        "PC",
+        "Xbox One",
+        "PlayStation 3",
+        "Xbox 360"
+      ],
+      "description": "Mass Effect II is a sequel to Mass Effect one, following the story of Captain Shepard in his or her journey in saving the Galaxy from Reapers. Just after the fight against Saren, Shepard dies and drifts in open space. Being collected by Cerberus and the lead man, The Illusive Man, Shepard has to investigate attacks on human colonies around the Milky Way, and discover that now the Reapers using some new insectoid called the Collectors. You can choose from different classes to play, for example, a Soldier, Adept or Vanguard. A cover system is the main mechanic in the fight, as you have to think about fighting your enemy strategically. Your talents have a global CDR, so choose wisely. With one little addition, now your weapon has a loaded magazine of bullets, and you can run out of ammo if not using your weapon properly. BioWare sticks to the tradition of dialogue and reputation system, as your actions still affect your position in the world. If you act like a hero and help everyone you meet, people will like you and your reputation will be Paragon. Do the exact opposite and a Renegade. Whom will you be?",
+      "genre": "Action, RPG",
+      "release_date": "Jan 26, 2010",
+      "website": "http://masseffect.bioware.com/"
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "background_image": "https://www.mobygames.com/images/covers/l/666918-ghost-of-tsushima-playstation-4-front-cover.png",
+      "platforms": ["PlayStation 4", "PlayStation 5"],
+      "description": "The year is 1274. Samurai warriors are the legendary defenders of Japan--until the fearsome Mongol Empire invades the island of Tsushima, wreaking havoc and conquering the local population. As one of the last surviving samurai, you rise from the ashes to fight back. But, honorable tactics won't lead you to victory. You must move beyond your samurai traditions to forge a new way of fighting--the way of the Ghost--as you wage an unconventional war for the freedom of Japan.",
+      "genre": ["Action", "Adventure", "RPG"],
+      "release_date": "Jul 17, 2020",
+      "website": "https://www.suckerpunch.com/category/games/ghost-of-tsushima/"
+    },
+    {
+      "name": "Super Mario Odyssey",
+      "background_image": "https://www.mobygames.com/images/covers/l/435360-super-mario-odyssey-nintendo-switch-front-cover.jpg",
+      "platforms": ["Nintendo Switch"],
+      "description": "Super Mario Odyssey is a 3D platform game, a part of Nintendo's Super Mario series. The game follows Mario on his quest to save Princess Peach from her forced marriage with Bowser. The game starts with Mario fighting Bowser on its aircraft. Bowers knock Mario off the ship and shreds his cap into pieces. Mario awakens in the Cap Kingdom inhabited with hat-like spirits and befriends one of them named Cappy. It turns out, Bowser also kidnapped Cappy's sister Tiara, and now the heroes must chase Bowser through several kingdoms to save Peach and Tiara.",
+      "genre": ["Arcade", "Platformer"],
+      "release_date": "Oct 27, 2017",
+      "website": "https://www.nintendo.com/games/detail/super-mario-odyssey-switch"
+    },
+    {
+      "name": "Need For Speed: Most Wanted",
+      "background_image": "https://static.wikia.nocookie.net/nfs/images/5/5f/NFSMW_BlackEdition_Boxart.jpg/revision/latest?cb=20200606133400&path-prefix=en",
+      "platforms": [
+        "PC",
+        "PlayStation 3",
+        "Xbox",
+        "Xbox 360",
+        "PlayStation 2",
+        "PSP",
+        "GameCube"
+      ],
+      "description": "Wake up to the smell of burnt asphalt as the scent of illicit street racing permeates the air. Need for Speed Most Wanted challenges you to become the most notorious and elusive street racer. Features • Master the art of cop evasion in Barricade Runner and other new race modes. • Modify your ride to beat any tuner, muscle, or exotic. • Customize the look of your car to elude police pursuit. • Win races, climb the Blacklist, become the Most Wanted.",
+      "genre": ["Racing", "Arcade"],
+      "release_date": "Nov 15, 2005",
+      "website": "https://www.ea.com/games/need-for-speed/need-for-speed-most-wanted-2005"
+    },
+    {
+      "name": "Shadow of the Colossus",
+      "background_image": "https://www.mobygames.com/images/covers/l/455396-shadow-of-the-colossus-playstation-4-front-cover.png",
+      "platforms": ["PlayStation 2"],
+      "description": "(Also known as 'Wanda and the Colossus' or 'Wanda to Kyozou' in Japan) In Shadow of the Colossus, players take the role of a young man seeking the truth of an ancient tale of power hidden in a mystical land. Shadow of the Colossus is a majestic journey through ancient lands to seek out and destroy gigantic mythical beasts. With a trusty horse at your side, players explore the spacious lands and unearth each Colossi. The uneasy task of defeating a Colossus relies on intelligent puzzle solving and action oriented gameplay. Armed with strong wits, a mystical sword and a sturdy bow, players use cunning and strategy to topple each behemoth.",
+      "genre": ["Action", "Adventure", "RPG"],
+      "release_date": "Oct 18, 2005",
+      "website": "https://www.playstation.com/en-gb/games/shadow-of-the-colossus/"
+    },
+    {
+      "name": "Castlevania: Symphony of the Night",
+      "background_image": "https://cdn.vox-cdn.com/thumbor/iAyHl__pb1OuSefJPpH1dJnFvJo=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13340245/sotn.jpg",
+      "platforms": [
+        "SEGA Saturn",
+        "PlayStation",
+        "Android",
+        "Xbox 360",
+        "iOS"
+      ],
+      "description": "Castlevania: Symphony of the Night is a platform-adventure action role-playing game developed and published by Konami in 1997 for the PlayStation. It was directed and produced by Toru Hagihara, with Koji Igarashi acting as assistant director. It is the direct sequel to Castlevania: Rondo of Blood taking place four years later. It features Dracula's dhampir son Alucard as the protagonist rising from his slumber to explore the Dracula's castle which has re-appeared after Richter Belmont has vanished. It marks a break from previous games in the series, introducing exploration, non-linear level design and role-playing elements. Initially, the game was unsuccessful – particularly in the United States where it was meagerly publicized – but thanks to praise by critics, it gained sales through word-of-mouth and became a hit. It has been re-released on several consoles and is considered a sleeper hit, a cult classic, and one of the best video games ever made.",
+      "genre": ["Action", "Adventure"],
+      "release_date": "Mar 20, 1997",
+      "website": "https://www.konami.com/games/castlevania/us/en-us/page/history_2020_son"
+    },
+    {
+      "name": "Devil May Cry 5",
+      "background_image": "https://static.wikia.nocookie.net/devilmaycry/images/3/31/DMC5_Base_game.png/revision/latest?cb=20190325010814",
+      "platforms": [
+        "Xbox One",
+        "PC",
+        "PlayStation 4",
+        "Playstation 5"
+      ],
+      "description": "Devil May Cry 5 is the sixth game in the Devil May Cry franchise and the fifth in its main series. The game continues the plot of Devil May Cry 2. The demonic threat seems to have been forgotten, but the demons return, and there are new accidents around the world. Nero and Dante have parted ways, and Nero established his own agency. He also received a new robotic arm made by his engineer Nico. It replaces his Devil Bringer prosthetic that was stolen by a villain. At the beginning of the game, Nero rides his van to Red Grave City in which a demonic tree appeared. At the same time, Dante has a new client, a mysterious V, who hires him to investigate the demonic attacks.",
+      "genre": ["Action"],
+      "release_date": "Mar 8, 2019",
+      "website": "http://www.devilmaycry5.com/"
+    },
+    {
+      "name": "Kingdom Hearts III",
+      "background_image": "https://www.godisageek.com/wp-content/uploads/kingdom-hearts-3-review-1024x576.png",
+      "platforms": [
+        "Xbox One",
+        "PlayStation 4",
+        "PC"
+      ],
+      "description": "Kingdom Hearts III is the twelfth game in its series. As with its predecessors, Kingdom Hearts III is a crossover of characters and worlds from Disney/Pixar animated movies and Final Fantasy franchise with some of the original game characters. Kingdom Hearts III is the last part of the Dark Seeker saga, in which the main villain is Master Xehanort. The series itself, however, continues. The main protagonist of the series, a boy named Sora, joins forces with Disney's Donald Duck and Goofy. Their quest is to find the Guardians of Light. Meanwhile, King Mickey and Riku are searching for those who previously owned the Keyblades. The common goal of the characters is to prevent a new Keyblade War that villainous Master Xehanort is trying to trigger. The game is set in several worlds based on Disney and Pixar films, such as Tangled's Corona, Big Hero 6's San Fransokyo and Frozen's Arendelle.",
+      "genre": ["Action", "Adventure", "RPG"],
+      "release_date": "Jan 29, 2019",
+      "website": "https://www.kingdomhearts.com/3/"
+    }
+  ]
+}
