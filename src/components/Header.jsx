@@ -16,7 +16,7 @@ const Header = () => {
         <form className="gap-3 flex">
           <input
             style={{ width: "40rem", height: "2rem" }}
-            className="rounded-xl hover:scale-105 transition duration-500 ease-in-out p-2"
+            className="rounded-xl p-2"
             type="text"
             placeholder="search your games here"
           />
@@ -30,10 +30,10 @@ const Header = () => {
         </form>
       </div>
       <nav className="pr-6 gap-9 flex">
-        <button className="text-slate-300 text-2xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800  cursor-pointer">
+        <button className="text-slate-300 text-2xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800 cursor-pointer">
           Home
         </button>
-        <button className="text-slate-300 text-2xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800  cursor-pointer">
+        <button className="text-slate-300 text-2xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800 cursor-pointer">
           Categories
         </button>
       </nav>
