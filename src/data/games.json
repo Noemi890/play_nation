@@ -177,7 +177,7 @@
       "background_image": "https://gameranx.com/wp-content/uploads/2022/01/horizon-forbidden-west-1-scaled.jpg",
       "platforms": ["PlayStation 4", "PlayStation 5"],
       "description": "Explore distant lands, fight bigger and more awe-inspiring machines, and encounter astonishing new tribes as you return to the far-future, post-apocalyptic world of Horizon. The land is dying. Vicious storms and an unstoppable blight ravage the scattered remnants of humanity, while fearsome new machines prowl their borders. Life on Earth is hurtling towards another extinction, and no one knows why. It's up to Aloy to uncover the secrets behind these threats and restore order and balance to the world. Along the way, she must reunite with old friends, forge alliances with warring new factions and unravel the legacy of the ancient past - all the while trying to stay one step ahead of a seemingly undefeatable new enemy.",
-      "genre": "Action, Adventure, RPG",
+      "genre": ["Action", "Adventure", "RPG"],
       "release_date": "Feb 18, 2022",
       "website": "https://www.guerrilla-games.com/games"
     },
@@ -190,7 +190,7 @@
         "Xbox One"
       ],
       "description": "The world is a vast, beautiful, and dangerous place - especially when you have been shrunken to the size of an ant. Explore, build, and survive together in this first person, multiplayer, survival-adventure. Can you thrive alongside the hordes of giant insects, fighting to survive the perils of the backyard?",
-      "genre": "Adventure, Indie",
+      "genre": ["Adventure", "Indie"],
       "release_date": "Sep 27, 2022",
       "website": "https://www.xbox.com/en-us/games/grounded?source=lp"
     },
@@ -206,7 +206,7 @@
         "Xbox One"
       ],
       "description": "Far across the sea, an island calls… Embark on a heartrending journey into a brutal, breathtaking world twisted by supernatural forces. After escaping their devastated homeland, Amicia and Hugo travel far south, to new regions and vibrant cities. There, they attempt to start a new life and control Hugo's curse. But, when Hugo's powers reawaken, death and destruction return in a flood of devouring rats. Forced to flee once more, the siblings place their hopes in a prophesized island that may hold the key to saving Hugo. Discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell, overcoming foes and challenges with a variety of weapons, tools and unearthly powers.",
-      "genre": "Action, Adventure",
+      "genre": ["Action", "Adventure"],
       "release_date": "Oct 17, 2022",
       "website": "https://www.focus-home.com/en-us/games/a-plague-tale-requiem"
     },
@@ -215,7 +215,7 @@
       "background_image": "https://images6.alphacoders.com/121/1216717.jpg",
       "platforms": ["PlayStation 5", "PC"],
       "description": "After strange disappearances hit Tokyo's population, it's up to you to uncover the source and purge the city of a strange, new evil. Armed with your own mysterious spectral abilities, you will face down the occult, unravel conspiracy theories and experience urban legends like never before. Don't fear the unknown. Attack it.",
-      "genre": "Action",
+      "genre": ["Action"],
       "release_date": "Mar 24, 2022",
       "website": "https://bethesda.net/en/game/ghostwire-tokyo"
     },
@@ -230,13 +230,13 @@
         "Xbox One"
       ],
       "description": "Play as each of the nine camp counselors in a thrilling cinematic tale, where every decision shapes your unique story from a tangled web of possibilities. Any character can be the star of the show—or die before daylight comes. How will your story unfold? Will you dare to check what's behind that trap door? Will you investigate the screams echoing from within the forest? Will you save your friends or desperately run for your life? Every choice, big or small, shapes your story and determines who lives to tell the tale. Cutting edge facial capture and filmic lighting techniques, combined with incredible performances from an iconic ensemble cast of Hollywood talent, bring the horrors of Hackett's Quarry to life in a pulse-pounding, cinematic thrill ride. Place your faith in up to 7 friends in online play, where invited players watch along and vote on key decisions, creating a story shaped by the whole group! Or, play together in a party horror couch co-op experience where each player picks a counselor and controls their actions. Adjustable difficulty for all gameplay elements let players of any skill level enjoy the horror. And if you prefer to watch rather than play, Movie Mode lets you enjoy The Quarry as a binge-worthy cinematic thriller. Select how you want the story to unfold, kick back, and munch on some popcorn in between all the screams!",
-      "genre": "Action, Adventure",
+      "genre": ["Action", "Adventure"],
       "release_date": "Jun 9, 2022",
       "website": "https://quarrygame.2k.com/"
     },
     {
       "name": "Sifu",
-      "background_image": "https://s01.riotpixels.net/data/2e/67/2e677da5-e955-4a31-ae1c-00e6fdd1b090.jpg/cover.sifu.1024x1024.2022-02-08.18.jpg",
+      "background_image": "https://lh4.googleusercontent.com/eBqTDRidRxvOGqBGhgex8znt-b_091ik_KzwrvQk5eutvrAT1bgynas_NSs7j77uRIeo8TDfBYdeoVU3t_laQhxFnFE-qWeZa8J2nqBW9WcAftTPgi15FPCKem6eD0lYf5O9TZJ8",
       "platforms": [
         "Nintendo Switch" ,
         "PC",
@@ -246,7 +246,7 @@
         "PlayStation 4"
       ],
       "description": "Is one life enough to have Kung Fu? In Sifu, you play a young Kung-Fu student on a path of revenge. Running after shadows from his past, one against all, he will have to draw deep into his unique mastery of Pak-Mei Kung-Fu to prevail. On the path of vengeance: The hunt for your enemies will take you through the hidden corners of the city, from the gang-ridden suburbs to the cold hallways of the corporate towers. You have got one day, and countless enemies on your way. Time will be the price to pay. Adaptation is the way: Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows and ledges... The odds are stacked against you, and you will be offered no mercy. Training never ends: Kung Fu is a path for the body and the mind. Learn from your errors, unlock unique skills, and find the strength within yourself to master the devastating techniques of Pak-Mei Kung-Fu.",
-      "genre": "Action , Fighting",
+      "genre": ["Action", "Fighting"],
       "release_date": "Feb 8, 2022",
       "website": "https://www.sifugame.com/"
     },
@@ -261,7 +261,7 @@
         "PlayStation 4"
       ],
       "description": "Welcome to the new era of Call of Duty®. Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141. From small-scale, high-stakes infiltration tactical ops to highly classified missions, players will deploy alongside friends in a truly immersive experience.",
-      "genre": "Action, Shooter",
+      "genre": ["Action", "Shooter"],
       "release_date": "Oct 27, 2022",
       "website": "https://www.callofduty.com/modernwarfare2"
     },
@@ -274,7 +274,7 @@
         "Xbox Series S/X"
       ],
       "description": "The world is your canvas in Need for Speed™ Unbound. Prove you have what it takes to win The Grand, Lakeshore's ultimate street racing challenge. Across 4 intense weeks of racing, earn enough cash to enter weekly qualifiers, beat the competition, and make your mark on the street racing scene while outdriving and outsmarting the cops. Pack your garage with precision-tuned, custom rides and light up the streets with your unique style, exclusive fits, and a vibrant global soundtrack led by A$AP Rocky and AWGE that bumps in every corner of the world. Express yourself to the fullest with the freshest new art styles and signature tags that represent what you're all about. With separate single- and multiplayer campaigns, this latest edition in the Need for Speed franchise from Criterion Games™ delivers hours of electric, adrenaline-pumping action.",
-      "genre": "Action, Racing",
+      "genre": ["Action", "Racing"],
       "release_date": "Nov 29, 2022",
       "website": "https://www.ea.com/games/need-for-speed/need-for-speed-unbound"
     },
@@ -283,7 +283,7 @@
       "background_image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_PokemonLegendsArceus_EN_image1600w.jpg",
       "platforms": ["Nintendo Switch"],
       "description": "First came Sinnoh remakes. Then came Sinnoh pre-makes. Introducing #PokemonLegendsArceus​, a new challenge and a new frontier for the Pokémon world. The Pokémon Legends: Arceus game honours past Pokémon games’ core gameplay while infusing new action and RPG elements. You’ll need to catch, survey, and research wild Pokémon in a long-gone era of the Sinnoh region to create and complete the region’s first Pokédex.",
-      "genre": "Action, Adventure, RPG",
+      "genre": ["Action", "Adventure", "RPG"],
       "release_date": "Jan 28, 2022",
       "website": "https://legends.pokemon.com/"
     },
@@ -298,7 +298,7 @@
         "PlayStation 4"
       ],
       "description": "Sired in an act of vampire insurrection, your existence ignites the war for Seattle's blood trade. Enter uneasy alliances with the creatures who control the city and uncover the sprawling conspiracy which plunged Seattle into a bloody civil war between powerful vampire factions. Become the Ultimate Vampire. Immerse yourself in the World of Darkness and live out your vampire fantasy in a city filled with intriguing characters that react to your choices. You and your unique disciplines are a weapon in our forward-driving, fast-moving, melee-focussed combat system. Your power will grow as you advance, but remember to uphold the Masquerade and guard your humanity... or face the consequences. Descend into Seattle's Dark Heart and Survive the Vampire Elite. Seattle has always been run by vampires. Hunt your prey across Seattle locations faithfully reimagined in the World of Darkness. Meet the old blood founders present since the city's birth and the new blood steering the tech money redefining the city. Everyone has hidden agendas - so choose your allies wisely. Enter into Uneasy Alliances. Choose a side among competing factions, each with their own unique traits and stories, in the war for Seattle's blood trade. The world will judge you by the company you keep, but remember no one's hands stay clean forever. Experience the Story. Written by the creative mind behind the original Bloodlines, Vampire: The Masquerade® - Bloodlines™ 2 brings the ambitions of the first game to life and sees the return of a few fan favorite characters.",
-      "genre": "Action, RPG",
+      "genre": ["Action", "RPG"],
       "release_date": "Dec 31, 2023",
       "website": "https://www.bloodlines2.com"
     },
@@ -313,17 +313,17 @@
         "Xbox Series S/X"
       ],
       "description": "The Prince has returned! Experience the classic tale that redefined action-adventure gaming in this full-scale remake for a new generation. You are the Prince of Persia. Embark on a journey to save your kingdom from the treacherous Vizier. Master the Sands of Time and use your dagger to reverse, accelerate, freeze, and slow time itself. Fight cursed enemies and solve puzzles along the way. Experience incredible graphical enhancements and re-designed gameplay mechanics. Unlock Prince of Persia, the original game from 1989, along your journey.",
-      "genre": "Action, Adventure, Puzzle, Platformer",
+      "genre": ["Action", "Adventure", "Puzzle", "Platformer"],
       "release_date": "TBA",
       "website": "https://www.ubisoft.com/en-gb/game/prince-of-persia/sands-of-time-remake"
     },
     {
       "name": "The Last of Us Part I",
-      "background_image": "https://assets-prd.ignimgs.com/2022/06/09/the-last-of-us-part-1-button-1654791855870.jpg",
+      "background_image": "https://images5.alphacoders.com/408/408539.jpg",
       "platforms": ["PlayStation 5", "PC"],
       "description": "Revisit the game that set a new bar for single-player narrative storytelling with The Last of Us™ and explore a ravaged and hardened world, where every action has a brutal consequence for Joel and Ellie. Experience the emotional storytelling and unforgettable characters in The Last of Us™, winner of over 200 Game of the Year awards. In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey.",
 
-      "genre": "Action, Shooter",
+      "genre": ["Action", "Shooter"],
       "release_date": "Mar 3, 2023",
       "website": "https://www.naughtydog.com/blog/the_last_of_us_part_i_arrives_on_pc_march_3_2023"
     },
@@ -331,7 +331,7 @@
     "background_image": "https://www.spieltimes.com/wp-content/uploads/2021/09/Marvels-SpiderMan-2-Cover.jpg",
     "platforms": ["PlayStation 5"],
     "description": "Marvel's Spider-Man 2 is the next game in PlayStation's critically acclaimed Marvel's Spider-Man franchise. Developed by Insomniac Games in collaboration with Marvel Games and PlayStation for the PS5 console.",
-    "genre": "Action",
+    "genre": ["Action"],
     "release_date": "TBA",
     "website": "https://blog.playstation.com/2021/09/09/marvels-spider-man-2-and-marvels-wolverine-revealed/"
     },
@@ -346,7 +346,7 @@
         "PlayStation 5"
       ],
       "description": "The Lord of the Rings™: Gollum™ is a story-driven action adventure. Take on a perilous journey as Gollum, chasing the only thing that is precious to him. Gollum is skillful and cunning, but also torn by his split personality. One mind, two egos - you decide!",
-      "genre": "Action, Adventure",
+      "genre": ["Action", "Adventure"],
       "release_date": "Dec 31, 2023",
       "website": "https://www.playstation.com/en-gb/games/the-lord-of-the-rings-gollum/"
     },
@@ -358,7 +358,7 @@
         "PC"
       ],
       "description": "The 16th standalone entry in the legendary Final Fantasy series marks a darker turn for the RPG franchise, with a complex tale of revenge, power struggles and unavoidable tragedy. Final Fantasy XVI reimagines the series' iconic summons as Eikons. These deadly creatures are housed within Dominants, men and women who inherit their immense power at birth - whether they like it or not. Eikons are the most powerful beings in Valisthea, a land where six powerful realms have emerged thanks to the power of the Mothercrystals. The aether provided by these towering mountains of crystal powers the magicks that have allowed these nations to thrive for many years — but now a mysterious Blight threatens to disrupt their uneasy alliance. Play as Clive Rosfield, First Shield of Rosaria and guardian of his younger brother Joshua, the Dominant of the Eikon Phoenix, in this epic action RPG from a team of Final Fantasy veterans.",
-      "genre": "Action, RPG",
+      "genre": ["Action", "RPG"],
       "release_date": "Jun 22, 2023",
       "website": "https://na.finalfantasyxvi.com/"
     },
@@ -372,7 +372,7 @@
         "Xbox Series S/X"
       ],
       "description": "The famed pirate, Monkey.D.Luffy, better known as Straw Hat Luffy, and his crew the Straw Hat Pirates, are sailing across the New World in search of the next island and the next adventure that awaits them. But during their voyage they are caught in a storm and shipwrecked. They find themselves washed up on a lush tropical island surrounded by constantly raging storms... Separated from his crew, Luffy sets off on a grand, new adventure to find his friends and escape the island! Dangerous new enemies, terrifying forces of nature, and more await them! Play as various members of the Straw Hat Pirates in a classic RPG set in the world of the popular ONE PIECE anime!",
-      "genre": "Action, RPG, Casual",
+      "genre": ["Action", "RPG", "Casual"],
       "release_date": "Jan 13, 2023",
       "website": "https://en.bandainamcoent.eu/one-piece/one-piece-odyssey"
     },
@@ -387,7 +387,7 @@
         "PlayStation 5"
       ],
       "description": "Scars Above is a challenging sci-fi third-person action adventure shooter combining the rewarding feel of overcoming difficulty with a compelling and intricate story, set in a mysterious alien world to explore. Some things were not meant to be discovered… A colossal and enigmatic alien structure appears in Earth's orbit and stuns the entire world; humanity names it 'The Metahedron'. The Sentient Contact Assessment and Response team (SCAR) - consisting of scientists and engineers - is sent to investigate. Things don't go as planned and the Metahedron hauls the team across space onto a mysterious extrasolar planet. Playing the role of Dr Kate Ward - a SCAR member - who wakes up dazed, alone in a strange, hostile environment. Determined to survive, you set out to find your crew and unravel the mystery behind what's happened. Kate is an astronaut and a scientist - not a soldier - but she's resourceful and determined to do anything to survive.Use a combination of ranged weapons, devices, consumables and melee attacks, you need to manage stamina as you run, dodge, exploit weak points and discover effective tactics to defeat your foes. Combine different elemental attacks to beat the odds and break through otherwise impassable obstacles. Craft different items and gadgets to aid you against the countless threats in this exoplanet.",
-      "genre": "Action",
+      "genre": ["Action"],
       "release_date": "Feb 28, 2023",
       "website": "https://scarsabove.primematter.gg/en-it"
     },
@@ -401,7 +401,7 @@
         "PC"
       ],
       "description": "A new era for fighting games begins in 2023! The evolution of fighting games starts with our traditional Fighting Ground, and then we're turning the genre on its head with World Tour and Battle Hub for a total of three modes where anyone can play to their liking. No one starts off as a champion. You get there step by step, punch by punch. Take up the challenge and bring your game to the next level.",
-      "genre": "Fighting",
+      "genre": ["Fighting"],
       "release_date": "Jun 2, 2023",
       "website": "https://www.streetfighter.com/6/"
     },
@@ -413,7 +413,7 @@
         "Nintendo Switch"
       ],
       "description": "During the day the forest is calm and peaceful. It is during the night that you hear the roars...of monsters. Accompany Lucy and her friends in this grim, beautifully hand-drawn adventure game by the creators of Little Briar Rose, in collaboration with studio Luna2. Lucy is afraid of the forest, just like any other child: every night, the echoing roars rob her of her sleep. Not even her dreams are a safe place where she could play. People disappearing is nothing uncommon in the village, but this time, Lucy is old enough to investigate on her own. Or so she thinks. Explore Silentown in search of hints, but beware: do not enter the forest. A unique, unsettling 2D art style fitting for a mysterious, dark tale. Music plays a crucial role, and learning how to sing will help Lucy in times of need. Combine items to obtain widely unexpected results! Many quirky characters (and animals!) to interact with. Be nice to them before they disappear. Play minigames with the other children of the village! A very mean cat, programmed to mess with Lucy at any given chance. Curious, original puzzles: use a leash and a pair of shears to break in your mother's best friend's house, all in order to steal… a flower?!",
-      "genre": "Adventure, Casual, Indie",
+      "genre": ["Adventure", "Casual", "Indie"],
       "release_date": "Jan 11, 2023",
       "website": "https://childrenofsilentown.com/"
     },
@@ -427,7 +427,7 @@
         "PC"
       ],
       "description": "Wish-granting Mermaid's Tears in the hands of SpongeBob and Patrick… What could possibly go wrong? Sure, the very fabric holding the very universe very together could come very undone, opening up portals into Wishworlds full of knights, cowboys, pirates, and prehistoric snails. But that's nothing everyone's favorite sponge can't handle - with the right cosmic costume! Everybody do the Cosmic Shake!",
-      "genre": "Action",
+      "genre": ["Action"],
       "release_date": "Jan 31, 2023",
       "website": "https://cosmicshake.thqnordic.com/"
     },
@@ -488,7 +488,7 @@
         "Xbox 360"
       ],
       "description": "Mass Effect II is a sequel to Mass Effect one, following the story of Captain Shepard in his or her journey in saving the Galaxy from Reapers. Just after the fight against Saren, Shepard dies and drifts in open space. Being collected by Cerberus and the lead man, The Illusive Man, Shepard has to investigate attacks on human colonies around the Milky Way, and discover that now the Reapers using some new insectoid called the Collectors. You can choose from different classes to play, for example, a Soldier, Adept or Vanguard. A cover system is the main mechanic in the fight, as you have to think about fighting your enemy strategically. Your talents have a global CDR, so choose wisely. With one little addition, now your weapon has a loaded magazine of bullets, and you can run out of ammo if not using your weapon properly. BioWare sticks to the tradition of dialogue and reputation system, as your actions still affect your position in the world. If you act like a hero and help everyone you meet, people will like you and your reputation will be Paragon. Do the exact opposite and a Renegade. Whom will you be?",
-      "genre": "Action, RPG",
+      "genre": ["Action", "RPG"],
       "release_date": "Jan 26, 2010",
       "website": "http://masseffect.bioware.com/"
     },
@@ -503,7 +503,7 @@
     },
     {
       "name": "Super Mario Odyssey",
-      "background_image": "https://www.mobygames.com/images/covers/l/435360-super-mario-odyssey-nintendo-switch-front-cover.jpg",
+      "background_image": "https://wallpapers.com/images/featured/1jgembaldw5xrxfr.jpg",
       "platforms": ["Nintendo Switch"],
       "description": "Super Mario Odyssey is a 3D platform game, a part of Nintendo's Super Mario series. The game follows Mario on his quest to save Princess Peach from her forced marriage with Bowser. The game starts with Mario fighting Bowser on its aircraft. Bowers knock Mario off the ship and shreds his cap into pieces. Mario awakens in the Cap Kingdom inhabited with hat-like spirits and befriends one of them named Cappy. It turns out, Bowser also kidnapped Cappy's sister Tiara, and now the heroes must chase Bowser through several kingdoms to save Peach and Tiara.",
       "genre": ["Arcade", "Platformer"],
@@ -529,7 +529,7 @@
     },
     {
       "name": "Shadow of the Colossus",
-      "background_image": "https://www.mobygames.com/images/covers/l/455396-shadow-of-the-colossus-playstation-4-front-cover.png",
+      "background_image": "https://i.pinimg.com/originals/69/83/66/69836601c9804192b7101a33484d250e.jpg",
       "platforms": ["PlayStation 2"],
       "description": "(Also known as 'Wanda and the Colossus' or 'Wanda to Kyozou' in Japan) In Shadow of the Colossus, players take the role of a young man seeking the truth of an ancient tale of power hidden in a mystical land. Shadow of the Colossus is a majestic journey through ancient lands to seek out and destroy gigantic mythical beasts. With a trusty horse at your side, players explore the spacious lands and unearth each Colossi. The uneasy task of defeating a Colossus relies on intelligent puzzle solving and action oriented gameplay. Armed with strong wits, a mystical sword and a sturdy bow, players use cunning and strategy to topple each behemoth.",
       "genre": ["Action", "Adventure", "RPG"],
@@ -538,7 +538,7 @@
     },
     {
       "name": "Castlevania: Symphony of the Night",
-      "background_image": "https://cdn.vox-cdn.com/thumbor/iAyHl__pb1OuSefJPpH1dJnFvJo=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13340245/sotn.jpg",
+      "background_image": "https://images8.alphacoders.com/670/670563.jpg",
       "platforms": [
         "SEGA Saturn",
         "PlayStation",
