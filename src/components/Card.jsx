@@ -1,12 +1,12 @@
 import React from "react";
-// import useNavigate from "react";
+import { useNavigate } from "react-router-dom";
 import "../css/card.css";
 
 export const Card = ({ game }) => {
-  // const navigate = useNavigate()
+  const navigate = useNavigate()
 
   const handleClick = () => {
-    // navigate("/game", game)
+    navigate("/game", {state: game})
   }
 
   return (
