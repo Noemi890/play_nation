@@ -1,5 +1,4 @@
 .card_container {
-  background-color: rgba(245, 245, 245, 0.859);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -35,7 +34,7 @@
   background-color: rgba(0,0,0, 0.4);
   font-weight: bold;
   opacity: 100%;
-  font-size: x-large;
+  font-size: 25px;
 }
 
 .card_title {

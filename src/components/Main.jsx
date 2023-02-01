@@ -8,7 +8,7 @@ const Main = () => {
 
   console.log(games)
   return (
-    <main className="m-5">
+    <main className="m-5 z-40">
       <div className="grid" style={{ gridTemplateColumns: "repeat(auto-fill, minmax(300px, 1fr))", gap: "5px", rowGap: "20px" }}>
         {
           games.map((game, i) => {

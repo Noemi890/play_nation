@@ -11,14 +11,12 @@ export const Card = ({ game }) => {
 
   return (
     <button className="card_container" onClick={handleClick}>
-      <div>
         <img
           className="card_image"
           src={game.background_image}
           alt="cover_image"
         />
-      </div>
-      <h2 className="card_title">{game.name}</h2>
+      <span className="card_title">{game.name}</span>
     </button>
   );
 };

@@ -3,7 +3,7 @@ import Logo from "../assets/Logo";
 
 const Header = () => {
   return (
-    <div className="bg-zinc-900 max-w-full h-24 flex justify-between items-center drop-shadow-lg sticky top-0">
+    <div className="bg-zinc-900 max-w-full h-24 flex justify-between items-center drop-shadow-lg sticky z-50 top-0">
       <div className="flex flex-row pl-5">
         <div className="w-20 hover:animate-spin">
           <Logo />
