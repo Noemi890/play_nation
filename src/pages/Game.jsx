@@ -7,49 +7,56 @@ const Game = () => {
 
   console.log(game);
   return (
-    <div className="flex justify-center flex-col place-items-center">
-      <h1 className="text-slate-300 text-7xl mt-1.5">{game.name}</h1>
-      <img className="w-1/2" src={game.background_image} alt={game.name} />
-      <h3 className="text-slate-300 text-5xl mt-10">About:</h3>
-      <span className="text-slate-300 text-2xl mt-12 max-w-4xl">
-        {game.description}
-      </span>
+    <>
+      <div
+        className="flex grow flex-col bg-cover bg-top blur-sm relative"
+        style={{ backgroundImage: `url(${game.background_image})` }}
+      ></div>
 
-      <span className="text-slate-300 text-2xl mt-12 max-w-4xl">{`Released in ${game.release_date}`}</span>
-
-      <div>
-        <h4 className="text-slate-300 text-5xl mt-10">Genre:</h4>
-        {game?.genre?.map((g, e) => {
-          return (
-            <span
-              key={e}
-              className="text-slate-300 text-2xl mt-12 max-w-4xl"
-            >{`"${g}" `}</span>
-          );
-        })}
-      </div>
-
-      <div>
-        <h4 className="text-slate-300 text-5xl mt-10">Platforms:</h4>
-        {game.platforms.map((p, e) => {
-          return (
-            <span
-              key={e}
-              className="text-slate-300 text-2xl mt-12 max-w-4xl"
-            >{`"${p}" `}</span>
-          );
-        })}
-      </div>
-
-      <a
+      <div
+        className="fixed top-28 left-32 bg-black/70 flex p-3 rounded-lg flex-col"
+        style={{ width: "80vw", height: "75vh" }}
+      >
+        <div className="flex justify-between">
+          <div style={{ width: "13.5rem"}}>
+          <img
+            className="rounded-md"
+            src={game.background_image}
+            alt={game.name}
+          />
+          </div>
+          <span className="text-slate-300 text-5xl">{game.name}</span>
+          <span className="text-slate-300 text-2xl">{game.release_date}</span>
+        </div>
+        <div className="flex flex-row justify-between mt-6">
+          <div className="text-md w-1/2 text-slate-300">
+          <p>{game.description}</p>
+          </div>
+          <ul>
+            <li>Genre: {
+              game.genre.map((g, i) => {
+                return <li key={i}>{g}</li>
+              })
+              }</li>
+            <li>Platform: {
+              game.platforms.map((p, i) => {
+                return <li key={i}>{p}</li>
+              })
+              }</li>
+          </ul>
+        </div>
+        <div>
+        <a
         className="text-slate-300 text-2xl mt-12 max-w-4xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800"
         href={game.website}
         target="_blank"
         rel="noreferrer"
       >
-        Click here for more information
+        Want to know more? Click Here!
       </a>
-    </div>
+        </div>
+      </div>
+    </>
   );
 };
 
