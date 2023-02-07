@@ -1,14 +1,18 @@
 import React from "react";
-import { useNavigate } from "react-router-dom"
+import { useNavigate } from "react-router-dom";
 import Logo from "../assets/Logo";
 
 const Header = () => {
-
-  const navigate = useNavigate()
+  
+  const navigate = useNavigate();
 
   const handleHomeClick = () => {
-    navigate("/")
-  }
+    navigate("/");
+  };
+
+  const handleCategoryClick = () => {
+    
+  };
 
   return (
     <div className="bg-zinc-900 max-w-full h-24 flex justify-between items-center drop-shadow-lg sticky z-50 top-0">
@@ -38,10 +42,16 @@ const Header = () => {
         </form>
       </div>
       <nav className="pr-6 gap-9 flex">
-        <button onClick={handleHomeClick} className="text-slate-300 text-2xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800 cursor-pointer">
+        <button
+          onClick={handleHomeClick}
+          className="text-slate-300 text-2xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800 cursor-pointer"
+        >
           Home
         </button>
-        <button className="text-slate-300 text-2xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800 cursor-pointer">
+        <button
+          onClick={handleCategoryClick}
+          className="text-slate-300 text-2xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800 cursor-pointer"
+        >
           Categories
         </button>
       </nav>
