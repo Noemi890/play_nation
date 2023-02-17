@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import Logo from "../assets/Logo";
 
-const Header = () => {
+const Header = ({ setIsOpen, isOpen }) => {
   
   const navigate = useNavigate();
 
@@ -11,7 +11,7 @@ const Header = () => {
   };
 
   const handleCategoryClick = () => {
-    
+    setIsOpen(!isOpen)
   };
 
   return (
