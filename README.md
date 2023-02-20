@@ -4,6 +4,8 @@
 
 ### A Website that allows the User, through a list of games, to choose the game he is interested in and have more information about it, with the possibility to be redirected to the actual website to have even more informations.
 
+[Live Application](https://playnation.netlify.app/)
+
 ___
 
 ### This is a short video that focus on the main key features:
