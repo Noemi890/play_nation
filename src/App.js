@@ -45,7 +45,7 @@ function App() {
   const handleCategoryClick = (e) => {
     const category = e.target.value
     const mappedGames = []
-    games.forEach(game => {
+    gamesData.games.forEach(game => {
       if (game.genre.includes(category)) {
         mappedGames.push(game)
       }
