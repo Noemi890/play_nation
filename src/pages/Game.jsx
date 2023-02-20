@@ -1,11 +1,15 @@
 import React from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 
 const Game = () => {
   const location = useLocation();
   const game = location.state;
+  const navigate = useNavigate()
 
-  console.log(game);
+  const handleBackClick = () => {
+    navigate("/")
+  }
+
   return (
     <>
       <div
@@ -49,7 +53,8 @@ const Game = () => {
             })}
           </ul>
         </div>
-        <div className="flex justify-self-end self-center">
+        <div className="flex justify-around w-full">
+          <button className="text-slate-300 text-2xl mt-12 max-w-4xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800" onClick={handleBackClick}>{"<- Back"}</button>
           <a
             className="text-slate-300 text-2xl mt-12 max-w-4xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800"
             href={game.website}
