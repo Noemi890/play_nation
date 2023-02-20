@@ -11,15 +11,13 @@ const Game = () => {
   }
 
   return (
-    <>
       <div
-        className="flex grow flex-col bg-cover bg-top blur-sm relative overflow-hidden"
-        style={{ backgroundImage: `url(${game.background_image})` }}
-      ></div>
+        className="flex grow flex-col bg-cover bg-top relative justify-center items-center pb-14">
+
+      <div className="w-full h-full fixed bg-cover" style={{ backgroundImage: `url(${game.background_image})`, filter:"blur(8px)"}}></div>
 
       <div
-        className="fixed top-28 left-32 bg-black/70 flex p-3 rounded-lg flex-col h-auto"
-        style={{ width: "80vw", height: "75vh" }}
+        className=" relative bg-black/70 flex p-3 rounded-lg flex-col h-auto w-3/4"
       >
         <div className="flex justify-between mb-4">
           <div style={{ width: "13.5rem" }}>
@@ -53,7 +51,7 @@ const Game = () => {
             })}
           </ul>
         </div>
-        <div className="flex justify-around w-full fixed bottom-20 left-4">
+        <div className="flex justify-around w-full">
           <button className="text-slate-300 text-2xl mt-12 max-w-4xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800" onClick={handleBackClick}>{"<- Back"}</button>
           <a
             className="text-slate-300 text-2xl mt-12 max-w-4xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800"
@@ -65,7 +63,7 @@ const Game = () => {
           </a>
         </div>
       </div>
-    </>
+      </div>
   );
 };
 
