@@ -21,7 +21,7 @@ const Game = () => {
         className="fixed top-28 left-32 bg-black/70 flex p-3 rounded-lg flex-col h-auto"
         style={{ width: "80vw", height: "75vh" }}
       >
-        <div className="flex justify-between">
+        <div className="flex justify-between mb-4">
           <div style={{ width: "13.5rem" }}>
             <img
               className="rounded-md"
@@ -53,7 +53,7 @@ const Game = () => {
             })}
           </ul>
         </div>
-        <div className="flex justify-around w-full">
+        <div className="flex justify-around w-full fixed bottom-20 left-4">
           <button className="text-slate-300 text-2xl mt-12 max-w-4xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800" onClick={handleBackClick}>{"<- Back"}</button>
           <a
             className="text-slate-300 text-2xl mt-12 max-w-4xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800"
