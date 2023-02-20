@@ -24,12 +24,10 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 
-  border: 1px solid #ccc;
-  background: #fff;
+  background: #1F1F1F;
   overflow: hidden;
   border-radius: 4px;
   outline: none;
-  padding: 20px;
 }
 
 .myoverlay {

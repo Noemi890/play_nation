@@ -1,14 +1,7 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
 import Logo from "../assets/Logo";
 
-const Header = ({ setIsOpen, isOpen }) => {
-  
-  const navigate = useNavigate();
-
-  const handleHomeClick = () => {
-    navigate("/");
-  };
+const Header = ({ setIsOpen, isOpen, handleHomeClick }) => {
 
   const handleCategoryClick = () => {
     setIsOpen(!isOpen)

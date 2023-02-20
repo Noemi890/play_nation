@@ -1,10 +1,7 @@
 import React from "react";
-import gamesData from "../data/games.json"
 import {Card} from "./Card";
 
-const Main = () => {
-
-  const games = gamesData.games
+const Main = ({ games }) => {
   
   return (
     <main className="m-5 z-40">
