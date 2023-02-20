@@ -1,7 +1,7 @@
 import React from "react";
 import Logo from "../assets/Logo";
 
-const Header = ({ setIsOpen, isOpen, handleHomeClick }) => {
+const Header = ({ setIsOpen, isOpen, handleHomeClick, handleSearch }) => {
 
   const handleCategoryClick = () => {
     setIsOpen(!isOpen)
@@ -20,18 +20,12 @@ const Header = ({ setIsOpen, isOpen, handleHomeClick }) => {
       <div>
         <form className="gap-3 flex">
           <input
+            onKeyUp={e => handleSearch(e)}
             style={{ width: "40rem", height: "2rem" }}
             className="rounded-xl p-2"
             type="text"
             placeholder="search your games here"
           />
-          <button
-            type="submit"
-            value="submit"
-            className="text-slate-300 text-2xl hover:scale-125 transition duration-500 ease-in-out hover:text-sky-800"
-          >
-            search
-          </button>
         </form>
       </div>
       <nav className="pr-6 gap-9 flex">

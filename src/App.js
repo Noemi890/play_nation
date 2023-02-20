@@ -54,9 +54,23 @@ function App() {
     setGames(mappedGames)
   }
 
+  const handleSearch = (e) => {
+    const search = e.target.value.toUpperCase()
+
+    const mappedGames = []
+    gamesData.games.forEach(game => {
+      if (game.name.toUpperCase().includes(search)) {
+        mappedGames.push(game)
+      }
+    })
+
+    setGames(mappedGames)
+
+  }
+
   return (
     <div className="App text-center min-h-screen flex flex-col">
-      <Header setIsOpen={setIsOpen} isOpen={isOpen} handleHomeClick={handleHomeClick}/>
+      <Header setIsOpen={setIsOpen} isOpen={isOpen} handleHomeClick={handleHomeClick} handleSearch={handleSearch}/>
       <Routes>
         <Route path="/" element={<Main games={games}/>} />
         <Route path="/game" element={<Game />} />
